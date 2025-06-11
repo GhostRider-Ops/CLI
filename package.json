@@ -1,0 +1,60 @@
+{
+  "name": "CLI",
+  "Description": "Command Line Interface",
+  "keywords": "",
+  "homepage": "https://github.com/GhostRider-Ops/CLI",
+  "author": "John Reardon",
+  "version": "1.0.0",
+  "license": "ISC",
+  "property": "",
+  "private": true
+},
+
+{
+  "main": "cli.js" 
+},
+
+"engines": {
+    "node": ">=_._._",
+    "npm": ">=_._._"
+  },
+
+  "scripts": {
+    "start" "node cli.js",
+    "dev": "",
+    "build": "tsc", 
+    "test": "standard" 
+  },
+
+"repository": {
+    "type": "git",
+    "url": "https://github.com/GhostRider-Ops/CLI.git"
+ },
+
+"bugs": {
+    "url": "https://github.com/GhostRider-Ops/CLI/issues"
+  },
+
+"dependencies": {
+
+
+
+},
+
+"devDependencies": {
+
+
+
+},
+
+"peerDependencies": {
+
+
+
+},
+
+"optionalDependencies": {
+
+
+
+},
