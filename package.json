@@ -15,6 +15,10 @@
   "main": "cli.js" 
 },
 
+"files": [
+  "bin/",
+]
+
 "engines": {
     "node": ">=_._._",
     "npm": ">=_._._"
